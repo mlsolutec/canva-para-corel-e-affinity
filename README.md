@@ -35,7 +35,11 @@ Coloque o arquivo `conversor.bat` e todos os PDFs que deseja converter **na mesm
 
 text
 
-`📁 C:\Meus PDFs\    ├── conversor.bat   ├── documento1.pdf   ├── documento2.pdf   └── relatorio.pdf`
+`📁 C:\Meus PDFs\    
+    ├── conversor.bat
+    ├── documento1.pdf
+    ├── documento2.pdf
+    └── relatorio.pdf`
 
 ---
 
@@ -71,11 +75,11 @@ O script irá processar cada PDF e exibir mensagens como:[conversor.bat](https:/
 Ao terminar, o script exibe um contador de sucessos e erros:[conversor.bat](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/102357/08c61d00-192d-40b2-aa34-674f49ea61ac/conversor.bat?AWSAccessKeyId=ASIA2F3EMEYESPVGYLFF&Signature=GFR0McQ8AT%2FLer%2BbqbVxzf3CAOs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEBYaCXVzLWVhc3QtMSJHMEUCIQCAyH94bKLElY%2Bn3%2BpgVLXn36E5A%2FVlkT%2FNGxSntrvTzgIgUZR%2BJv9ipH4wC1nO7viFR89tEaRYeXi9M%2FO%2BYqvuCBgq%2FAQI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDC3JQ0lmUWH8cY8ebSrQBNXyaSIyaN6Wcw%2BwGWEZaXiXlb148CiY3YfFmk6GNCJPDsRM37pGSJTOJoTTV8F6VDePyGI%2FTYMcXA8WDddOMucYolG05Oc29IuD%2BBI%2FhgG81jOz0uf6Bfk47BxmMOCN2M3KOWAmE93kU0sETiSkJpkg8%2F9kW9dloZvhq101L%2BryTdMbTkH9xTetAOgbcSQuw%2FKx0vIC4g19bktEmB7oe7uMS9Yknkc3YMcUXfblq3N%2FbyhLuY%2FVYN%2FMInHSjaqCx9IqeY2JgsqGXx99SKEtnpZtxjhAC80QueTTL%2BbJEk5cp3OrEXTphI9ISCg3A5Evk7ntdNBhKOVwTwf5BYZxDuW6ITbuSJJPXF1OoRhAC%2FhKDl9TB4SP6F6INZ0s5%2BJbwJrJthSL83t3Mx%2F7%2Frl8ZiB8Ehvz4KQ0sLXG8G9wu%2FuU%2FrlK8u8131dZahOWNzaMn3o4OQ6z%2Bo%2FJ35Q%2FBXePYECSIpzCFN1BP75H%2B82DT%2BSwgS2mHQ9fyhyXVJMfGXowGc7dp9N5fJk4dqXjB2z%2Bpw%2Bw2yGtwG8N2jgg0YWCVciLrp5iIxK%2F5fbCyynTjMETPe79aCXsj8V9KX2mBtie9CVhr9zq2s%2F2iEc6j7Gqo9Yr09EW%2FBDGKHuMn3jivJNpWq8htmb5VRG4zWFAMKUL2WkiSKd3lCDZn9XWOCL0QlAdAeITyuu%2FBR%2BRLwQtsLrK3%2BD8CVAsJG4nAnjYwbE46GPSpqLg%2BxN3wEgI6X9nbzYhtigwTgi2NRTLs4YTDdMA7ivBRvWW1e6kcPyfmJak%2B%2FEwj5iazgY6mAHwQZxLg1GaENRm1i2HOBXrUdldceKibYF0Wxcs1MmRmq2rqMMvDOqt%2F%2F2uOKqDwdQiTNmIFFZcMHXEkow%2B3VbanUwMmODN%2BvH3WJTvrbLKQItjJpqOcNGGkVTvpvpHqMB48C9WGQPN55n3ihIcyDLKeTDnlBTTu4ORGF2SqAre8RkoSG0HgQJ7li6Mj0STZHlWMVDhKYU6tw%3D%3D&Expires=1774622313)
 
 
-`
+```
 ===================================================== 
 Resultado: 3 convertido(s), 0 erro(s) 
 ===================================================== 
 Processo concluido.
-`
+```
 
 Pressione qualquer tecla para fechar a janela após a conclusão.
